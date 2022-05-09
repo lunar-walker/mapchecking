@@ -15,7 +15,7 @@
     const DEFAULT_MAP_POSITION = [48.862895, 2.286978, 18]
     
     const loader = new Loader({
-        apiKey: "AIzaSyD7Vm3gm4Fm7jSkuIh_yM14GmYhz1P_S4M",
+        apiKey: "AIzaSyDBaCGJSSch3QuvB1_dEcxI59wh9zV2LAw",
         version: "3.48",
         libraries: ["geometry", "places"]
     });
